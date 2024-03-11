@@ -1,0 +1,39 @@
+{
+  "name": "weseu0",
+  "version": "1.0.0",
+  "description": "This is something intrsted about TEA and basic demonstration app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/weseu0131/weseu0.git"
+  },
+  "dependencies": {
+    "weseu0": "1.0.0",
+    "1339backet": "1.0.0",
+    "kozmiackitea": "1.0.0",
+    "hubbabubbawithtea": "1.0.0",
+    "herewegoteanr2": "1.0.0",
+    "thekingisback": "1.0.0",
+     "sashasomple": "1.0.0",
+     "starknetscamxd": "1.0.0",
+    "finnishboy1": "1.0.0",
+    "snoudengod": "1.0.0",
+    "cryptoukr1a": "1.0.0",
+    "slaytea": "1.0.0",
+    "project_tea_ol": "1.0.0",
+    "teaispower": "1.0.0",
+    "sanulovetea": "1.0.0",
+   "insanetea": "1.0.0",
+   "herewegotea": "1.0.0",
+   "tea_kozmickai": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weseu0131/weseu0/issues"
+  },
+  "homepage": "https://github.com/weseu0131/weseu0#readme"
+}
